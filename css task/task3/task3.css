@@ -1,37 +1,45 @@
-html,body {
+html,
+body {
     height: 100%;
     margin: 0;
     padding: 0;
     font-size: 62.5%;
     background: #68cdd5;
 }
+
 .back {
     margin-bottom: 2.1rem;
     padding-top: 1rem;
     padding-left: 1.75rem;
 }
+
 .logo {
     margin-bottom: 6.1rem;
     text-align: center;
 }
+
 .introduce {
     margin: 0 5rem 8.95rem 4.55rem;
     font-size: 1.5rem;
     color: #fff;
+    text-align: left;
     text-align: justify;
 }
-.user > div {
+
+.user>div {
     color: #fff;
     font-size: 1.2rem;
 }
+
 .name {
     float: left;
     margin-left: 6.1rem;
     text-align: center;
 }
+
 .password {
     float: right;
-   margin-left: 9.25rem;
-   margin-right: 5.6rem;
+    margin-left: 9.25rem;
+    margin-right: 5.6rem;
     text-align: center;
 }
